@@ -1,0 +1,15 @@
+{
+  "name": "calculator_on_your_desktop",
+  "version": "1.0.0",
+  "description": "Calculator on your desktop",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nima Jelodari",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2"
+  }
+}
